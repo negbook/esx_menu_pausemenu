@@ -369,17 +369,17 @@ end
 function PauseMenu.GetValueFromKeyboard(needY,hasdescription)
 
 	local Var0;
-	local fVar1;
-	local fVar2;
-	local fVar3;
-	local fVar4;
-	local fVar5;
-	local fVar6;
-	local fVar7;
-	local fVar8;
-	local fVar9;
-	local fVar10;
-	local fVar11;
+	local Var1;
+	local Var2;
+	local Var3;
+	local Var4;
+	local Var5;
+	local Var6;
+	local Var7;
+	local Var8;
+	local Var9;
+	local Var10;
+	local Var11;
 	local function ratioX(x)
 		x = (x * (1.777778 / GetAspectRatio(0)));
 		return x;
