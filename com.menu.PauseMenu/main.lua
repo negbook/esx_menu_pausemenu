@@ -520,6 +520,7 @@ NB_Pause_Menu.Open = function(namespace,name,data)
 				end 
 				OpenLoop(Break)
 			end 
+			return
 		end)
 	end 
 end 
